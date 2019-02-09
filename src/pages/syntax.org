@@ -1,4 +1,4 @@
-#+TITLE: Supoprted Syntax
+#+TITLE: Supported Syntax
 #+DATE: [2018-12-23 Sun]
 
 * Emphasis (can be in _headline_ too)
